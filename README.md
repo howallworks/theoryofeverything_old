@@ -1,3 +1,3 @@
-[[Theory Of everything]]
+[Theory Of everything](#theoryofeverything-eng-id)
 
-[[Теория всего]]
+[Теория всего](#theoryofeverything-rus-id)
